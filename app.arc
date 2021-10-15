@@ -2,7 +2,7 @@
 dynamic-assets
 
 @http
-get /asset
+get /asset/:text
 
 @aws
 profile default
